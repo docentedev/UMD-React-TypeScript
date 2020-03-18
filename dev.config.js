@@ -12,14 +12,6 @@ module.exports = {
         extensions: ['.ts', '.tsx', '.js']
     },
 
-    output: {
-        library: 'ActivateKeyPass',
-        libraryTarget: 'umd',
-        filename: 'ActivateKeyPass.js',
-        auxiliaryComment: 'Test Comment',
-
-    },
-
     devtool: 'inline-source-map',
     devServer: {
         contentBase: './dist',

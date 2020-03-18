@@ -12,9 +12,9 @@ module.exports = {
     },
 
     output: {
-        library: 'ActivateKeyPass',
+        library: 'ModuleUMD',
         libraryTarget: 'umd',
-        filename: 'ActivateKeyPass.js',
+        filename: 'ModuleUMD.js',
     },
 
     externals: {

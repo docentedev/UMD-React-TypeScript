@@ -17,7 +17,7 @@ class ActivateKeyPass extends React.Component<ActivateKeyPassProps> {
       ]
     }
     return (
-      <div className="mfe-activate-keypass-web-cl">
+      <div className="mfe-example-web-cl">
         <Header textHomeLink="Hello World" />
         <Home
           name={"LCM"}
