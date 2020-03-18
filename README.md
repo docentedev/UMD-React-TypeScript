@@ -1,0 +1,1 @@
+# Module React Typescript UMD
